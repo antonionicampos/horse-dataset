@@ -1,9 +1,9 @@
-# Relatório Final - Horse Colic Data Set
-> Disciplina: **Data Mining**
-> Aluno: **Antonioni Barros Campos**
-> Contato: **(81) 99104-7437**
-> Email: antonioni.campos@gmail.com
-> Professora: **Manoela Kohler**
+﻿# Relatório Final - Horse Colic Data Set
+> Disciplina: **Data Mining**  
+> Aluno: **Antonioni Barros Campos**  
+> Contato: **(81) 99104-7437**  
+> Email: antonioni.campos@gmail.com  
+> Professora: **Manoela Kohler**  
 
 ## Introdução
 
