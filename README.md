@@ -6,6 +6,6 @@ Todas as representações binárias foram convertidas para palavras que elas rea
 
 Esses dados foram originalmente publicados pelo UCI Machine Learning Database: [http://archive.ics.uci.edu/ml/datasets/Horse+Colic](http://archive.ics.uci.edu/ml/datasets/Horse+Colic)
 
-> Projeto realizado na disciplina de Data Mining (PUC-RIO)
-> [Relatório do projeto](Relatório_Final.md) 
+> Projeto realizado na disciplina de Data Mining (PUC-RIO)  
+> [Relatório do projeto](relatorio_final.md) 
  
